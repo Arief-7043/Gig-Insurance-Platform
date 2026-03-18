@@ -1,8 +1,8 @@
-AI-Powered Parametric Insurance for Gig Delivery Workers 🚴‍♂️
+**AI-Powered Parametric Insurance for Gig Delivery Workers** 🚴‍♂️
 
 ---
 
-Problem Statement
+**Problem Statement**
 
 India’s gig delivery workers (Zomato, Swiggy, etc.) frequently lose 20–30% of their weekly income due to external disruptions like extreme weather, pollution, and curfews.
 Currently, there is no income protection system for such uncontrollable events.
@@ -11,7 +11,7 @@ This project proposes an AI-powered parametric insurance platform that automatic
 
 ---
 
-Chosen Persona
+**Chosen Persona**
 
 Food Delivery Partner (Swiggy/Zomato)
 
@@ -30,7 +30,7 @@ Pain Points:
 
 ---
 
-Solution Overview
+**Solution Overview**
 
 We propose a parametric insurance system that:
 
@@ -42,7 +42,7 @@ We propose a parametric insurance system that:
 
 ---
 
-Key Features
+**Key Features**
 
 AI-Powered Risk Assessment
 
@@ -80,7 +80,7 @@ Parametric Triggers (Automatic Claims)
 
 ---
 
-Intelligent Fraud Detection & Anti-Spoofing
+**Intelligent Fraud Detection & Anti-Spoofing**
 
 To handle coordinated fraud attacks (fake GPS, mass fake claims), the system uses a multi-layer defense strategy:
 
@@ -137,7 +137,7 @@ Instant Payout System
 
 ---
 
-System Workflow
+**System Workflow**
 
 1. User Onboarding
 2. Risk Profiling
@@ -149,7 +149,7 @@ System Workflow
 
 ---
 
-AI/ML Integration
+**AI/ML Integration**
 
 Risk Prediction Model
 
@@ -164,7 +164,7 @@ Fraud Detection Model
 
 ---
 
-Tech Stack
+**Tech Stack**
 
 | Layer    | Technology               |
 | -------- | ------------------------ |
@@ -177,7 +177,7 @@ Tech Stack
 
 ---
 
-Analytics Dashboard
+**Analytics Dashboard**
 
 * Active users
 * Claims triggered
@@ -198,7 +198,7 @@ Why Parametric Insurance?
 
 ---
 
-Future Enhancements
+**Future Enhancements**
 
 * Integration with delivery platform APIs
 * Real-time rider telemetry
@@ -222,7 +222,7 @@ gig-insurance-platform/
 
 ---
 
-Conclusion
+**Conclusion**
 
 This platform provides a secure, AI-driven parametric insurance solution that:
 
